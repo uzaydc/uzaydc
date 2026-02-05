@@ -12,7 +12,7 @@ I am a **Software Engineer** dedicated to building scalable, high-performance an
 ### 🛠 Tech Stack & Tools
 - **Languages:** C#, C++, Python, SQL
 - **Frameworks:** .NET Core 
-- **Tools & Environments:** Visual Studio Code, Git
+- **Tools & Environments:** Visual Studio, Git
 - **Core Competencies:** OOP, Algorithm Design, Software Development Life Cycle (SDLC)
 
 
